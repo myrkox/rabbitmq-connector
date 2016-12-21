@@ -1,0 +1,15 @@
+{
+    "name": "myrkox/rabbit-connector",
+    "description": "script to test rabbitmq connection",
+    "type": "script",
+    "require": {
+        "php-amqplib/php-amqplib": "2.6"
+    },
+    "license": "mit",
+    "authors": [
+        {
+            "name": "myrkox",
+            "email": "berlad.myr@gmail.com"
+        }
+    ]
+}
